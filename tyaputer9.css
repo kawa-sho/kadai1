@@ -76,4 +76,9 @@ footer {
     margin: 0 auto;
     margin-bottom: 20px;
   }
+
+  .main-item:nth-child(3) {
+    margin-right: 5%;
+  }
+
 }
